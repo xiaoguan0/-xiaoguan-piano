@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DqhnFqHTLTIWvuh206pw9dbF3pfCh3sLJ3+onO3Mr01t9QC5Iq22IXzuZzPrVjciO86Kw/6R3o67yh2D+F73rA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.7\\microsoft.netcore.app.runtime.win-x86.6.0.7.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.7\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.7.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.7\\microsoft.aspnetcore.app.runtime.win-x86.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
